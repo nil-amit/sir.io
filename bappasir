@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teacher's Day Tribute to Bappa Sir</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #007acc;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #007acc;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Happy Teacher's Day Tribute to Bappa Sir</h1>
+    </header>
+
+    <div class="container">
+        <h2>About Bappa Sir</h2>
+        <p>Bappa Sir is an extraordinary English teacher who has dedicated his life to educating and inspiring countless students. His passion for literature and language has ignited a love for English in all of us.</p>
+
+        <h2>Why Bappa Sir?</h2>
+        <p>His teaching style, dedication, and the way he makes even the most complex grammar rules seem simple have left a lasting impression on all of his students. We are truly grateful for his guidance and mentorship.</p>
+
+        <h2>Thank You, Bappa Sir!</h2>
+        <p>This Teacher's Day, we want to express our heartfelt gratitude to Bappa Sir for his unwavering support, patience, and the knowledge he has imparted to us. You are a remarkable teacher and a true inspiration!</p>
+    </div>
+
+    <footer>
+        <p>© 2023 Teacher's Day Tribute to Bappa Sir</p>
+    </footer>
+</body>
+</html>
